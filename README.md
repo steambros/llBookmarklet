@@ -15,7 +15,7 @@ The bookmarklet displays the:
 
 For an easy Drag'n'Drop installation please visit the &nbsp; [» Project Page] (http://steambros.github.io/llBookmarklet/).
 
-Manual installation in your in your browser:
+Manual installation in your browser:
 
 1. Create a new bookmark.
 2. Choose any name for your bookmark.
